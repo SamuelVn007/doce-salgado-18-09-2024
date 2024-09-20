@@ -1,0 +1,32 @@
+{
+  "salgados": [
+    {
+      "nome": "Empanadas",
+      "consumidores": 1500
+    },
+    {
+      "nome": "Samosas",
+      "consumidores": 1200
+    },
+    {
+      "nome": "Pastéis",
+      "consumidores": 1800
+    },
+    {
+      "nome": "Coxinhas",
+      "consumidores": 1000
+    },
+    {
+      "nome": "Quiches",
+      "consumidores": 800
+    },
+    {
+      "nome": "Fried dough",
+      "consumidores": 1500
+    },
+    {
+      "nome": "Spring rolls",
+      "consumidores": 2200
+    }
+  ]
+}
